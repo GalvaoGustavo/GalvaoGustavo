@@ -45,7 +45,9 @@ https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif 
           <img src="https://github-readme-stats.vercel.app/api?username=galvaogustavo&show_icons=true&theme=dracula" />
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galvaogustavo&show_icons=true&theme=dracula#gh-dark-mode-only"  height="195"/>
 </div>
-          
+
+![Snake animation](https://github.com/GalvaoGustavo/GalvaoGustavo/blob/output/github-contribution-grid-snake.svg)
+
           
 
 
