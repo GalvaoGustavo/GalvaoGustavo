@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif ( GIF COMPUTADORE )
-![Galvão GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaogustavo&hide=contribs,prs&theme=radical)
+![Galvão GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaogustavo&hide=contribs,prs&theme=radical)]
+![snake gif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 -->
 
