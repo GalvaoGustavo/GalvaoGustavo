@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Gustavo Galvão.👋
 
 <!--
 **GalvaoGustavo/GalvaoGustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif ( GIF COMPUTADORE )
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaogustavo&hide=contribs,prs&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaogustavo&show_icons=true&theme=radical)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+          
+
+
