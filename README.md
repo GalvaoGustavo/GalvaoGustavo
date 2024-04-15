@@ -28,6 +28,9 @@ https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" height="40"  />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python" height="40" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickersdevs.com.br%2Fshop%2Fstickers%2Faws-logo-sticker-adesivo%2F&psig=AOvVaw3-pW3mqFNJ3fIZrF1QQEMJ&ust=1713275559469000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjkwfuuxIUDFQAAAAAdAAAAABAE" height="40"/>
+                    
+          https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickersdevs.com.br%2Fshop%2Fstickers%2Faws-logo-sticker-adesivo%2F&psig=AOvVaw3-pW3mqFNJ3fIZrF1QQEMJ&ust=1713275559469000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjkwfuuxIUDFQAAAAAdAAAAABAE
           
 </div>
 
