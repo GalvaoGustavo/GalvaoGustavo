@@ -18,27 +18,20 @@ Here are some ideas to get you started:
 https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif ( GIF COMPUTADORE )
 ![Galvão GitHub stats](https://github-readme-stats.vercel.app/api?username=galvaogustavo&hide=contribs,prs&theme=radical)]
 ![snake gif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake-dark.svg)
+           https://github.com/tandpfun/skill-icons?tab=readme-ov-file#readme ( site para icones )
 
 
 -->
 
 
-### Habilidades: 
+### Skills: 
 <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="javascript" height="40"  />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python" height="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"alt="Aws" height="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="javascript" height="40" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="javascript" height="40" />
-          
-          
-                    
+          <img src="https://skillicons.dev/icons?i=aws,git,github,java,python,idea" height="40"/>
         
           
 </div>
 
-### Contato:
+### Contact:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )]()
